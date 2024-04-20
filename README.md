@@ -62,8 +62,8 @@ The project utilizes visualizations to present the benchmarking results in a cle
 ![CPU Usage vs Threads](cpu%20usage%20vs%20threads.png)
 
 5. **Cores Utilization**: A line plot showing CPU utilization over the course of matrix multiplication experiments. This visualization provides insights into how effectively CPU cores are utilized during multi-threaded computation tasks.
-![Cores Utilization](cpu%20cores.png)
-![Cores Utilization](cpu%20cores%202.png) 
+![Cores Utilization](cpu%20cores..png)
+![Cores Utilization](cpu%20cores%202..png) 
 
 ## Conclusion
 
